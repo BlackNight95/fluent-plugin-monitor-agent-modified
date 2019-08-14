@@ -22,3 +22,4 @@ Same as the `in_monitor_agent` plugin in Fluentd
 Bug reports and pull requests are welcome on [GitHub][github] 
 
 [github]: https://github.com/BlackNight95/fluent-plugin-monitor-agent-modified
+[td-agent]: https://github.com/treasure-data/td-agent
