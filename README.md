@@ -19,4 +19,6 @@ Same as the `in_monitor_agent` plugin in Fluentd
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/fluent-plugin-monitor-agent-modified.
+Bug reports and pull requests are welcome on [GitHub][github] 
+
+[github]: https://https://github.com/BlackNight95/fluent-plugin-monitor-agent-modified
