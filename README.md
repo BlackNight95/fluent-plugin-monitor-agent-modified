@@ -1,6 +1,7 @@
 # fluent-plugin-monitor-agent-modified
 
-
+Modified version of the `in_monitor_agent` plugin in fluentd. It can monitor number of emitted records during `emit_interval` when `tag` is configured. 
+The filed is `records`. 
 
 ## Installation
 
@@ -14,11 +15,7 @@ Or you can install this plugin for [td-agent][td-agent] as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Development
-
-
+Same as the `in_monitor_agent` plugin in Fluentd
 
 ## Contributing
 
