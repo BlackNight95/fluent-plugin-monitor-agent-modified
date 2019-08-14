@@ -32,7 +32,7 @@ Gem::Specification.new do |spec|
     spec.add_runtime_dependency("windows-pr", ["~> 1.2.5"])
   end
   
-  spec.add_dependency "fluentd", ">= 0.14.10", "< 2"
+  spec.add_dependency "fluentd", ">= 1.6.3", "< 2"
   spec.add_development_dependency("rake", ["~> 11.0"])
   spec.add_development_dependency("flexmock", ["~> 2.0"])
   spec.add_development_dependency("parallel_tests", ["~> 0.15.3"])
